@@ -103,6 +103,7 @@ Proyek ini juga dilengkapi:
 - Structured data `Person` di `index.html`.
 - Halaman `public/404.html`.
 - Security headers dan aturan rewrite di `vercel.json`.
+- Vercel Analytics melalui `_vercel/insights/script.js`.
 - GitHub Actions Quality untuk build dan validasi di `.github/workflows/quality.yml`.
 
 ## Upload ke GitHub
