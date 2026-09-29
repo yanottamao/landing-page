@@ -1,0 +1,27 @@
+{
+  "name": "personal-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal landing page of Yanottama Oktabrian",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run sync:github && npm run optimize:images && vite build",
+    "optimize:images": "node scripts/optimize-images.mjs",
+    "sync:github": "node scripts/sync-github-portfolio.mjs",
+    "preview": "vite preview",
+    "start": "npm run preview",
+    "validate": "node --check ./src/main.js && node ./scripts/validate-data.js"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.1"
+  },
+  "dependencies": {
+    "vue": "^3.5.43"
+  }
+}

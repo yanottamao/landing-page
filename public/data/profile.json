@@ -1,0 +1,464 @@
+{
+  "name": "Yanottama Oktabrian",
+  "shortName": "Yanottama",
+  "title": "Informatics Instructor",
+  "tagline": "Digital Skills & Technology Training",
+  "summary": "Instruktur Informatika dengan latar belakang Informatika dan pengalaman profesional dalam pelatihan vokasi serta pengembangan tenaga kerja. Berfokus pada pembelajaran praktis berbasis kompetensi yang relevan dengan kebutuhan dunia kerja.",
+  "defaultLanguage": "id",
+  "translations": {
+    "en": {
+      "summary": "An Informatics Instructor with an Informatics background and professional experience in vocational training and workforce development. Focused on practical, competency-based learning relevant to workplace needs.",
+      "status": "Open to collaboration & training opportunities",
+      "cta": {
+        "eyebrow": "Open to opportunities",
+        "heading": "Let's build digital skills together",
+        "description": "Contact me for training collaboration, competency development programs, or technology-related projects.",
+        "primary": {
+          "label": "Email me"
+        },
+        "secondary": {
+          "label": "WhatsApp"
+        }
+      },
+      "training": {
+        "office": {
+          "title": "Practical Office Advance",
+          "items": [
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Microsoft PowerPoint"
+          ]
+        },
+        "design": {
+          "title": "Graphic Design",
+          "items": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "CorelDRAW"
+          ]
+        },
+        "code": {
+          "title": "Web Programming",
+          "items": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP"
+          ]
+        },
+        "network": {
+          "title": "Computer & Networking",
+          "items": [
+            "Hardware assembly",
+            "Networking",
+            "MikroTik",
+            "Client-server systems"
+          ]
+        }
+      },
+      "experience": {
+        "apr-2022-present": {
+          "role": "Informatics Instructor",
+          "period": "April 2022 — Present",
+          "description": "Deliver practical and competency-based vocational training in information technology and digital skills."
+        },
+        "jul-2016-sep-2016": {
+          "role": "Information Technology Intern",
+          "period": "July 2016 — September 2016",
+          "description": "Completed an internship at the Information Technology and Communication Installation (ITIKOM)."
+        }
+      },
+      "education": {
+        "universitas-brawijaya": {
+          "institution": "Universitas Brawijaya",
+          "qualification": "Bachelor's Degree in Informatics",
+          "period": "2013 — 2020"
+        },
+        "sman-1-boyolangu": {
+          "institution": "SMAN 1 Boyolangu",
+          "qualification": "High School, Natural Sciences",
+          "period": "2010 — 2013"
+        }
+      },
+      "languages": {
+        "jawa": {
+          "level": "Native or bilingual"
+        },
+        "indonesia": {
+          "level": "Native or bilingual"
+        },
+        "inggris": {
+          "level": "Limited working proficiency"
+        }
+      },
+      "ui": {
+        "expertise": "Areas of expertise",
+        "training": "Training focus",
+        "experience": "Experience",
+        "education": "Education",
+        "certifications": "Certifications",
+        "projects": "Projects & portfolio",
+        "languages": "Languages",
+        "getInTouch": "Get in touch",
+        "downloadProfile": "Download profile",
+        "email": "Email",
+        "phone": "Phone",
+        "viewProject": "View project"
+      },
+      "meta": {
+        "title": "Yanottama Oktabrian — Informatics Instructor"
+      }
+    },
+    "id": {
+      "summary": "Instruktur Informatika dengan latar belakang Informatika dan pengalaman profesional dalam pelatihan vokasi serta pengembangan tenaga kerja. Berfokus pada pembelajaran praktis berbasis kompetensi yang relevan dengan kebutuhan dunia kerja.",
+      "status": "Terbuka untuk kolaborasi & peluang pelatihan",
+      "cta": {
+        "eyebrow": "Terbuka untuk peluang",
+        "heading": "Mari kembangkan keterampilan digital bersama",
+        "description": "Hubungi saya untuk kolaborasi pelatihan, pengembangan program kompetensi, atau proyek terkait teknologi.",
+        "primary": {
+          "label": "Email saya"
+        },
+        "secondary": {
+          "label": "WhatsApp"
+        }
+      },
+      "training": {
+        "office": {
+          "title": "Practical Office Advance",
+          "items": [
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Microsoft PowerPoint"
+          ]
+        },
+        "design": {
+          "title": "Desain Grafis",
+          "items": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "CorelDRAW"
+          ]
+        },
+        "code": {
+          "title": "Pemrograman Web",
+          "items": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP"
+          ]
+        },
+        "network": {
+          "title": "Komputer & Jaringan",
+          "items": [
+            "Perakitan perangkat keras",
+            "Jaringan",
+            "MikroTik",
+            "Sistem client-server"
+          ]
+        }
+      },
+      "experience": {
+        "apr-2022-present": {
+          "role": "Instruktur Informatika",
+          "period": "April 2022 — Sekarang",
+          "description": "Memberikan pelatihan vokasi praktis berbasis kompetensi pada bidang teknologi informasi dan keterampilan digital."
+        },
+        "jul-2016-sep-2016": {
+          "role": "Magang Teknologi Informasi",
+          "period": "Juli 2016 — September 2016",
+          "description": "Menyelesaikan magang pada Instalasi Teknologi Informasi dan Komunikasi (ITIKOM)."
+        }
+      },
+      "education": {
+        "universitas-brawijaya": {
+          "institution": "Universitas Brawijaya",
+          "qualification": "Sarjana Informatika",
+          "period": "2013 — 2020"
+        },
+        "sman-1-boyolangu": {
+          "institution": "SMAN 1 Boyolangu",
+          "qualification": "Sekolah Menengah Atas, Ilmu Pengetahuan Alam",
+          "period": "2010 — 2013"
+        }
+      },
+      "languages": {
+        "jawa": {
+          "level": "Penutur asli atau dua bahasa"
+        },
+        "indonesia": {
+          "level": "Penutur asli atau dua bahasa"
+        },
+        "inggris": {
+          "level": "Kemahiran terbatas untuk bekerja"
+        }
+      },
+      "ui": {
+        "expertise": "Bidang keahlian",
+        "training": "Fokus pelatihan",
+        "experience": "Pengalaman",
+        "education": "Pendidikan",
+        "certifications": "Sertifikasi",
+        "projects": "Proyek & portofolio",
+        "languages": "Bahasa",
+        "getInTouch": "Hubungi saya",
+        "downloadProfile": "Unduh profil",
+        "email": "Email",
+        "phone": "Telepon",
+        "viewProject": "Lihat proyek"
+      },
+      "meta": {
+        "title": "Yanottama Oktabrian — Instruktur Informatika"
+      }
+    }
+  },
+  "location": "Malang, Jawa Timur, Indonesia",
+  "photo": "/assets/img/yanottama.jpeg",
+  "cv": "/assets/doc/profile_linkedin.pdf",
+  "status": "Open to collaboration & training opportunities",
+  "contact": {
+    "email": "oktatama4@gmail.com",
+    "phone": "+62 813-3547-7122",
+    "cta": {
+      "eyebrow": "Open to opportunities",
+      "heading": "Let's build digital skills together",
+      "description": "Contact me for training collaboration, competency development programs, or technology-related projects.",
+      "primary": {
+        "label": "Email me",
+        "url": "mailto:oktatama4@gmail.com"
+      },
+      "secondary": {
+        "label": "WhatsApp",
+        "url": "https://wa.me/6281335477122"
+      }
+    },
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yanottamao"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/yanottamao"
+      }
+    ]
+  },
+  "expertise": [
+    "Vocational Education",
+    "Information Technology",
+    "Training & Development",
+    "Web Programming",
+    "Graphic Design",
+    "Computer Networking"
+  ],
+  "training": [
+    {
+      "icon": "office",
+      "title": "Practical Office Advance",
+      "items": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint"
+      ],
+      "id": "office"
+    },
+    {
+      "icon": "design",
+      "title": "Graphic Design",
+      "items": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "CorelDRAW"
+      ],
+      "id": "design"
+    },
+    {
+      "icon": "code",
+      "title": "Web Programming",
+      "items": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP"
+      ],
+      "id": "code"
+    },
+    {
+      "icon": "network",
+      "title": "Computer & Networking",
+      "items": [
+        "Hardware assembly",
+        "Networking",
+        "MikroTik",
+        "Client-server systems"
+      ],
+      "id": "network"
+    }
+  ],
+  "experience": [
+    {
+      "id": "apr-2022-present",
+      "role": "Informatics Instructor",
+      "company": "UPT Balai Latihan Kerja Singosari — Dinas Tenaga Kerja dan Transmigrasi Provinsi Jawa Timur",
+      "period": "April 2022 — Present",
+      "location": "Singosari",
+      "description": "Deliver practical and competency-based vocational training in information technology and digital skills."
+    },
+    {
+      "id": "jul-2016-sep-2016",
+      "role": "Information Technology Intern",
+      "company": "RSUD dr. Saiful Anwar",
+      "period": "July 2016 — September 2016",
+      "location": "Malang",
+      "description": "Completed an internship at the Information Technology and Communication Installation (ITIKOM)."
+    }
+  ],
+  "education": [
+    {
+      "id": "universitas-brawijaya",
+      "institution": "Universitas Brawijaya",
+      "qualification": "Bachelor's Degree in Informatics",
+      "period": "2013 — 2020"
+    },
+    {
+      "id": "sman-1-boyolangu",
+      "institution": "SMAN 1 Boyolangu",
+      "qualification": "High School, Natural Sciences",
+      "period": "2010 — 2013"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Instruktur Junior",
+      "issuer": "Kualifikasi 3",
+      "year": ""
+    },
+    {
+      "name": "Desain Grafis Madya",
+      "issuer": "",
+      "year": ""
+    },
+    {
+      "name": "Practical Office Advance",
+      "issuer": "",
+      "year": ""
+    }
+  ],
+  "languages": [
+    {
+      "id": "jawa",
+      "name": "Bahasa Jawa",
+      "level": "Native or bilingual"
+    },
+    {
+      "id": "indonesia",
+      "name": "Bahasa Indonesia",
+      "level": "Native or bilingual"
+    },
+    {
+      "id": "inggris",
+      "name": "Bahasa Inggris",
+      "level": "Limited working proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Git Test New",
+      "description": "Git Test for The Odin Project Lesson",
+      "image": "https://opengraph.githubassets.com/git_test_new/yanottamao/git_test_new",
+      "tags": [],
+      "url": "https://github.com/yanottamao/git_test_new",
+      "id": "git_test_new"
+    },
+    {
+      "title": "Odin Rock Paper Scissors",
+      "description": "Repository publik di GitHub.",
+      "image": "https://opengraph.githubassets.com/odin-rock-paper-scissors/yanottamao/odin-rock-paper-scissors",
+      "tags": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/yanottamao/odin-rock-paper-scissors",
+      "id": "odin-rock-paper-scissors"
+    },
+    {
+      "title": "ToDoApp Rails",
+      "description": "Repository publik di GitHub.",
+      "image": "https://opengraph.githubassets.com/ToDoApp_Rails/yanottamao/ToDoApp_Rails",
+      "tags": [
+        "Ruby"
+      ],
+      "url": "https://github.com/yanottamao/ToDoApp_Rails",
+      "id": "ToDoApp_Rails"
+    },
+    {
+      "title": "Blogger",
+      "description": "Laragon Basic Ruby on Rails Blogger Tutorial",
+      "image": "https://opengraph.githubassets.com/blogger/yanottamao/blogger",
+      "tags": [
+        "Ruby"
+      ],
+      "url": "https://github.com/yanottamao/blogger",
+      "id": "blogger"
+    },
+    {
+      "title": "Sorting Siswa",
+      "description": "Pangkalan Data Untuk Sorting Siswa",
+      "image": "https://opengraph.githubassets.com/sorting-siswa/yanottamao/sorting-siswa",
+      "tags": [
+        "PHP"
+      ],
+      "url": "https://github.com/yanottamao/sorting-siswa",
+      "id": "sorting-siswa"
+    },
+    {
+      "title": "Odin Recipes",
+      "description": "The Odin Project's Foundations Recipes Project",
+      "image": "https://opengraph.githubassets.com/odin-recipes/yanottamao/odin-recipes",
+      "tags": [
+        "HTML"
+      ],
+      "url": "https://github.com/yanottamao/odin-recipes",
+      "id": "odin-recipes"
+    },
+    {
+      "title": "Odin Landing Page",
+      "description": "The Odin Project's Foundations Landing Page Project",
+      "image": "https://opengraph.githubassets.com/odin-landing-page/yanottamao/odin-landing-page",
+      "tags": [
+        "HTML"
+      ],
+      "url": "https://github.com/yanottamao/odin-landing-page",
+      "id": "odin-landing-page"
+    },
+    {
+      "title": "Git Test",
+      "description": "My [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics) GitHub repo!",
+      "image": "https://opengraph.githubassets.com/git_test/yanottamao/git_test",
+      "tags": [],
+      "url": "https://github.com/yanottamao/git_test",
+      "id": "git_test"
+    },
+    {
+      "title": "Yanottamao",
+      "description": "Repository publik di GitHub.",
+      "image": "https://opengraph.githubassets.com/yanottamao/yanottamao/yanottamao",
+      "tags": [],
+      "url": "https://github.com/yanottamao/yanottamao",
+      "id": "yanottamao"
+    }
+  ],
+  "github": {
+    "username": "yanottamao",
+    "exclude": [
+      "landing-page",
+      "tamalabs-portfolio",
+      "curriculum",
+      "content",
+      "davinci_wsn",
+      "lsd_slam",
+      "autonavx_setup"
+    ],
+    "maxItems": 9
+  }
+}
